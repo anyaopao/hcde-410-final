@@ -1,11 +1,7 @@
 # Final Project: Analyzing the Impact of Gamification towards Education
 
 ## Abstract
-Gamification in an educational setting has significantly increased in recent years. These platforms often rely on incorporating reward-based mechanics such as leaderboards, badges, point systems, and quizes to promote learning. With platforms such as BrainPop, IXL, Kahoot!, and Quizlet offering a fun and interactive environment, students are motivated to actively engage in the learning process.
-
-While several studies have indicated positive impacts of gamified learning platforms, the degree of effectiveness remains contentious. Additionally, some studies discuss the ethical implications of gamified learning platforms, such as the overemphasis on competition, coersion/persuasion, and unsustainability of these platforms in the long-term.
-
-In light of these conflicting findings, this project seeks to understand and evaluate the effectiveness of gamified learning platforms on students' academic performance.
+The study evaluates the impact of gamified learning platforms on students’ academic performance using statistical analyses and data visualizations. Through this study, we have found statistically significant improvement in final exam scores for platform users, as revealed by a dependent t-test and Cohen's d effect size. However, have also found weak and non-significant findings when analyzing quiz engagement levels and academic performance through ANOVA and Pearson's correlation. We discuss the contradictory findings, as well as limitations such as dataset variability and lack of granular engagement data are discussed. The findings highlight gamification's potential benefits but also the need for more detailed and representative datasets.
 
 ## Data Documentation
 - Dataset: 🏅Gamification in Education
