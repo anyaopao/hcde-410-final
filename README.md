@@ -46,6 +46,7 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 OTHER DEALINGS IN THE SOFTWARE.
 
 ## Resources and References
+
 ### Terms of Service and Data Documentation:
 - Data Source: [Kaggle Dataset](https://www.kaggle.com/datasets/gianinamariapetrascu/gamification-students-grades?resource=download&select=Students_gamification_grades.csv)
 
